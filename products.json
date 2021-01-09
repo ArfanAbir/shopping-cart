@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Birthday Cake",
+        "price": 84.52,
+        "image": { "fields": { "file": { "url": "./image/birthdaycake.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Jolpai Achar",
+        "price": 54.35,
+        "image": { "fields": { "file": { "url": "./image/achar.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Chalta Pickle",
+        "price": 15.09,
+        "image": { "fields": { "file": { "url": "./image/chalta.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Chili Sauce",
+        "price": 20.25,
+        "image": { "fields": { "file": { "url": "./image/chilisauce.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Jar Cake",
+        "price": 17.65,
+        "image": { "fields": { "file": { "url": "./image/jarcake.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Cake for Kids",
+        "price": 65.35,
+        "image": { "fields": { "file": { "url": "./image/kidcake.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Laddu",
+        "price": 35.29,
+        "image": { "fields": { "file": { "url": "./image/laddu.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Snacks",
+        "price": 23.55,
+        "image": { "fields": { "file": { "url": "./image/snacks.jpg" } } }
+      }
+    }
+  ]
+}
