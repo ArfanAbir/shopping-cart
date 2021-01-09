@@ -67,7 +67,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url("image/background.jpg") center/cover no-repeat;
+  background: url("./image/background.jpg") center/cover no-repeat;
 }
 .banner {
   text-align: center;
